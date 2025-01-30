@@ -1,0 +1,153 @@
+[
+    {
+        "playerId": 1,
+        "name": "John Doe",
+        "country": "USA",
+       "image": "https://i.ibb.co.com/pxg0Ydb/portrait-person-playing-cricket-sport-23-2151702098.jpg",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 500000
+    },
+    {
+        "playerId": 2,
+        "name": "Rahul Sharma",
+        "country": "India",
+        "image": "https://i.ibb.co.com/m5CTK4C/cricket-match-with-player.jpg",
+        "role": "All-rounder",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Off-spin",
+        "biddingPrice": 750000
+    },
+    {
+        "playerId": 3,
+        "name": "David Smith",
+        "country": "Australia",
+        "image": "https://i.ibb.co.com/qk6SRcR/cricket-match-with-player-1.jpg",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Fast",
+        "biddingPrice": 600000
+    },
+    {
+        "playerId": 4,
+        "name": "Kumar Nair",
+        "country": "India",
+        "image": "https://i.ibb.co.com/nBtGhPz/6375791.jpg",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 300000
+    },
+    {
+        "playerId": 5,
+        "name": "Emily Clark",
+        "country": "England",
+        "image": "https://i.ibb.co.com/PY9Jn23/cricket-match-with-player-23-2151702177.jpg",
+        "role": "Wicketkeeper",
+        "battingType": "Right-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 450000
+    },
+    {
+        "playerId": 6,
+        "name": "Liam Johnson",
+        "country": "Australia",
+        "image": "https://i.ibb.co.com/44DWTpn/portrait-person-playing-cricket-sport-23-2151702115.jpg",
+        "role": "All-rounder",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Medium-fast",
+        "biddingPrice": 800000
+    },
+    {
+        "playerId": 7,
+        "name": "Sofia Martinez",
+        "country": "USA",
+        "image": "https://i.ibb.co.com/pxg0Ydb/portrait-person-playing-cricket-sport-23-2151702098.jpg",
+        "role": "Bowler",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Fast",
+        "biddingPrice": 400000
+    },
+    {
+        "playerId": 8,
+        "name": "Amit Verma",
+        "country": "India",
+        "image": "https://i.ibb.co.com/n1RQFvw/1000-F-841195998-AIItv-Pyj-SMucfqy-OOJji-L9i-W6ry-XXqa-A.jpg",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 350000
+    },
+    {
+        "playerId": 9,
+        "name": "Chloe Wang",
+        "country": "Australia",
+        "image": "https://i.ibb.co.com/JypjBnP/1000-F-836659302-z-M6pn-Xe-L4c-PN2hb-Po-GUzr-Rhuib-Kt-HD36.jpg",
+        "role": "Wicketkeeper",
+        "battingType": "Right-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 500000
+    },
+    {
+        "playerId": 10,
+        "name": "Nina Patel",
+        "country": "India",
+        "image": "https://i.ibb.co/com/J71QdmH/Rectangle-2.png",
+        "role": "All-rounder",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Leg-spin",
+        "biddingPrice": 700000
+    },
+    {
+        "playerId": 11,
+        "name": "Tom Wilson",
+        "country": "USA",
+        "image": "https://i.ibb.co.com/n1RQFvw/1000-F-841195998-AIItv-Pyj-SMucfqy-OOJji-L9i-W6ry-XXqa-A.jpg",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Medium-fast",
+        "biddingPrice": 600000
+    },
+    {
+        "playerId": 12,
+        "name": "Alice Brown",
+        "country": "England",
+       "image": "https://i.ibb.co.com/n1RQFvw/1000-F-841195998-AIItv-Pyj-SMucfqy-OOJji-L9i-W6ry-XXqa-A.jpg",
+        "role": "Batsman",
+        "battingType": "Left-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 400000
+    },
+    {
+        "playerId": 13,
+        "name": "Vikram Singh",
+        "country": "India",
+        "image": "https://i.ibb.co.com/pxg0Ydb/portrait-person-playing-cricket-sport-23-2151702098.jpg",
+
+        "role": "All-rounder",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Fast-medium",
+        "biddingPrice": 650000
+    },
+    {
+        "playerId": 14,
+        "name": "Grace Lee",
+        "country": "USA",
+        "image": "https://i.ibb.co.com/pxg0Ydb/portrait-person-playing-cricket-sport-23-2151702098.jpg",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Left-arm orthodox",
+        "biddingPrice": 350000
+    },
+    {
+        "playerId": 15,
+        "name": "Zara Khan",
+        "country": "Pakistan",
+        "image": "https://i.ibb.co.com/pxg0Ydb/portrait-person-playing-cricket-sport-23-2151702098.jpg",
+        "role": "Wicketkeeper",
+        "battingType": "Left-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 300000
+    }
+]
