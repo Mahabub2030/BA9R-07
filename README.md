@@ -17,5 +17,5 @@ The Cricket Team project is a web application that allows users to assemble thei
 2. **Unlimited Claim Coin & Buy Player
 3. **Toast Notifications**: Instant feedback is provided through toast notifications for actions such as successfully adding a player or error messages when trying to exceed the player limit.
 
-# Live link :
+# Live link :https://calm-dango-9c23bc.netlify.app/
 # BA9R-07
